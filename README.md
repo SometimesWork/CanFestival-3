@@ -1,3 +1,5 @@
+**SMT32G4 CanFestival support in development**
+
 This is a fork of the CanFestival-3 project http://dev.automforge.net/CanFestival-3
 
 Latest work done:
